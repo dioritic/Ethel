@@ -1,0 +1,11 @@
+{
+ name: dioritic-Ethel
+ displayName: "Ethel"
+ description: "-"
+ author: "dioritic"
+ version: 0.0.0.2.4
+ minGameVersion: 136
+ hidden: false
+ hideBrowser: false
+ repo: "dioritic/Ethel"
+}
